@@ -4,7 +4,7 @@
   <name>map_to_base_link</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="ianng@615@gmail.com">ian</maintainer>
+  <maintainer email="ianng615@gmail.com">ian</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
